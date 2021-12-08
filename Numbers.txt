@@ -35,6 +35,7 @@ HEAD
 aaaaaaaaaaaaaa
 
 bbbbbbbbbbbbbbb
+HEAD
 >>>>>>> master
 
 0000
@@ -44,3 +45,8 @@ bbbbbbbbbbbbbbb
 test
 
 
+
+
+ごめんなさい
+ごめんさなさい
+ごめんさなし
